@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction — Internship Project
 
-**Data Science Intern @ Persevex (Nov 2025 – Jan 2026)**
+**Data Science Intern (Nov 2025 – Jan 2026)**
 
 An end-to-end data science and machine learning project analyzing customer behavior to predict account churn for an e-commerce platform.
 
