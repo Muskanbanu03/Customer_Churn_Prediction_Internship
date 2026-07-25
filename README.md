@@ -50,3 +50,9 @@ An end-to-end data science and machine learning project analyzing customer behav
 
 ## Tools & Libraries
 Python, Pandas, NumPy, Scikit-learn, SHAP, Imbalanced-learn (SMOTE)
+
+<img width="632" height="817" alt="Screenshot 2026-07-25 090948" src="https://github.com/user-attachments/assets/462c9f93-540a-4fcc-8edd-94f31a703138" />
+
+<img width="632" height="818" alt="image" src="https://github.com/user-attachments/assets/8a0c9b66-d623-4781-b26f-2130262eb7c4" />
+
+
